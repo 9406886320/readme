@@ -1,6 +1,6 @@
 Hi there 👋,
 
-My name is Sakshi Agrawal, a full stack developer developing projects with  Microservices, spring-boot, angular and Java. I have 2 years working experience as a software developer.
+My name is Sakshi Agrawal, a backend developer developing projects with  Microservices, spring-boot, angular and Java. I have 2 years working experience as a software developer.
 
 	 🔭 I’m currently learning and improving my skills in spring-boot framework.
   
