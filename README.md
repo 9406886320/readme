@@ -1,6 +1,6 @@
-Hi there 👋,
+Hi here 👋,
 
-My name is Sakshi Agrawal, a Backend developer developing projects with  Microservices, spring-boot, angular and Java. I have 2 years working experience as a software developer.
+Is Sakshi Agrawal, a Backend developer developing projects with  Microservices, spring-boot, angular and Java. I have 2 years working experience as a software developer.
 
 	 🔭 I’m currently learning and improving my skills in spring-boot framework.
   
