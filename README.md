@@ -18,4 +18,4 @@ Is Sakshi Agrawal, a Backend developer developing projects with  Microservices, 
       Naukari:
           https://www.naukri.com/mnjuser/profile
 	  
-  📫 You can checkout my medium blog posts on KinkariTheWorld Your reviews both negative and positive will be appreciated!
+  📫 You can checkout my media blog posts on KinkariTheWorld Your reviews both negative and positive will be appreciated!
